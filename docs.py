@@ -2,7 +2,6 @@ import os
 
 files_folder = os.path.join(os.getcwd(), 'sorted')
 
-
 def files_to_dict(files_path):
     files = os.listdir(files_path)
     tmp_list = {}
