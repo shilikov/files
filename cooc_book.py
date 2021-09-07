@@ -68,14 +68,3 @@ def program():
 program()
 # get_shop_list_by_dishes(['Запеченный картофель', 'Фахитос'], person_count=5)
 # print()
-
-        elif user_input == "Q":
-            print('рады чnо вы воспользовались нашей программой')
-            exit(0)
-
-
-
-
-program()
-# get_shop_list_by_dishes(['Запеченный картофель', 'Фахитос'], person_count=5)
-# print()
